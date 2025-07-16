@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ListaCarregador
+comment0.text=\n\ Contem\ a\ acao\ dos\ botoes\ de\ uma\ lista\ na\ classe\ carregador\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=nome\ c
+comment1.target=ListaCarregador(java.lang.String,\ Carregador)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ btnExcluirListaActionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ btnAcessarListaActionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=javax.swing.JPanel\ getPainel()
+comment7.params=
+comment7.target=java.lang.String\ getNome()
+numComments=8

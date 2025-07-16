@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Editor
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Editor\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=
+comment1.target=Editor()
+comment2.params=c
+comment2.target=Editor(Controlador)
+comment3.params=
+comment3.target=void\ iniciarComponentes()
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ btnCancelarActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ btnConfirmarActionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=boolean\ verificarCampos()
+numComments=9

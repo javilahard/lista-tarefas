@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Meta
+comment0.text=\n\ Classe\ para\ descrever\ a\ meta\ definida\ pelo\ usuario\n\ \n\ @author\ Joao\ Avila\n\ @version\ 16/04/2025\n
+comment1.params=valor
+comment1.target=Meta(int)
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ Meta\n
+comment2.params=val
+comment2.target=void\ setValor(int)
+comment3.params=
+comment3.target=int\ getValor()
+numComments=4

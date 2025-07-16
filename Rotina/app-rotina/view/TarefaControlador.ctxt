@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TarefaControlador
+comment0.text=\n\ Contem\ os\ dados\ de\ uma\ tarefa\ que\ sao\ mostrados\ na\ classe\ Controlador\ (X,\ nome,\ Ponto)\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=nome\ valor\ c
+comment1.target=TarefaControlador(java.lang.String,\ int,\ Controlador)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=javax.swing.JPanel\ getPainel()
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=evt
+comment6.target=void\ btnExcluirTarefaActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ btnConcluirTarefaActionPerformed(java.awt.event.ActionEvent)
+numComments=8
